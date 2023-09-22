@@ -1,0 +1,11 @@
+Instance,T,Compact LP,Strengthened LP,Reference cost,Reference
+hec-s-92-n6,8,0.00,11.14,37.76,optimum (E2)
+hec-s-92-n8,10,0.00,0.13,21.85,optimum (E2)
+hec-s-92-n10,11,0.00,0.11,14.96,optimum (E2)
+hec-s-92-n15,13,0.00,0.22,,
+hec-s-92-n20,14,0.00,0.28,,
+hec-s-92-n25,15,0.00,0.35,,
+hec-s-92-n30,16,0.00,0.69,,
+hec-s-92-n40,17,0.00,0.69,,
+hec-s-92,18,0.00,0.79,10.03,best known (lit.)
+sta-f-83,13,0.00,27.78,157.03,best known (lit.)

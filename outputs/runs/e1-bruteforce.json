@@ -1,0 +1,20 @@
+{
+ "run": "e1-bruteforce",
+ "instance": "e1-toy",
+ "exams": 6,
+ "students": 20,
+ "periods": 4,
+ "timetables": 4096,
+ "feasible_timetables": 96,
+ "optimal_timetables": 4,
+ "objective": 10.2,
+ "time": 0.017682209028862417,
+ "timetable": [
+  1,
+  0,
+  2,
+  3,
+  0,
+  3
+ ]
+}

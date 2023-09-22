@@ -1,0 +1,9 @@
+{
+ "run": "pulp-status-hec-s-92",
+ "instance": "hec-s-92-n15",
+ "exams": 15,
+ "time_limit": 20,
+ "pulp_status": "Optimal",
+ "pulp_solution_status": "Solution Found",
+ "cbc_status": "Stopped on time limit"
+}

@@ -1,0 +1,23 @@
+{
+ "run": "lp-sta-f-83-strong",
+ "instance": "sta-f-83",
+ "exams": 139,
+ "students": 611,
+ "pairs": 1381,
+ "relaxed": true,
+ "build_time": 0.8974574159365147,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 27.78396072013093,
+ "bound": 27.78396072013093,
+ "nodes": -1,
+ "time": 3.4226999999955297,
+ "gap": 0.0,
+ "formulation": "strong",
+ "solver": "highs",
+ "periods": 13,
+ "time_limit": 300,
+ "variables": 8712,
+ "constraints": 108614,
+ "timetable": null
+}

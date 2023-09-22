@@ -1,0 +1,23 @@
+{
+ "run": "e1-strong-lp",
+ "instance": "e1-toy",
+ "exams": 6,
+ "students": 20,
+ "pairs": 11,
+ "relaxed": true,
+ "build_time": 0.001474957913160324,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 4.8,
+ "bound": 4.8,
+ "nodes": -1,
+ "time": 0.0012774999486282468,
+ "gap": 0.0,
+ "formulation": "strong",
+ "solver": "highs",
+ "periods": 4,
+ "time_limit": 60,
+ "variables": 57,
+ "constraints": 182,
+ "timetable": null
+}

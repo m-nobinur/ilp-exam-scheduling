@@ -1,0 +1,9 @@
+Method,Cost,Status,Time (s),Nodes
+Brute force (evaluator),10.20,optimal,0.018,"4,096 timetables"
+"Compact, HiGHS",10.20,optimal,0.047,5
+"Compact, CBC",10.20,optimal,0.500,6
+"Pairwise, HiGHS",10.20,optimal,0.036,9
+"Pairwise, CBC",10.20,optimal,0.405,10
+"Strengthened, HiGHS",10.20,optimal,0.016,1
+"Compact, LP relaxation",0.00,LP bound,0.000,-
+"Strengthened, LP relaxation",4.80,LP bound,0.001,-

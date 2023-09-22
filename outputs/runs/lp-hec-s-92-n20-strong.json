@@ -1,0 +1,23 @@
+{
+ "run": "lp-hec-s-92-n20-strong",
+ "instance": "hec-s-92-n20",
+ "exams": 20,
+ "students": 1454,
+ "pairs": 155,
+ "relaxed": true,
+ "build_time": 0.10809141607023776,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 0.28060522696011,
+ "bound": 0.28060522696011,
+ "nodes": -1,
+ "time": 0.36833466694224626,
+ "gap": 0.0,
+ "formulation": "strong",
+ "solver": "highs",
+ "periods": 14,
+ "time_limit": 300,
+ "variables": 1055,
+ "constraints": 13212,
+ "timetable": null
+}

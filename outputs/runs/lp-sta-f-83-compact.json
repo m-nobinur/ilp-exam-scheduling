@@ -1,0 +1,23 @@
+{
+ "run": "lp-sta-f-83-compact",
+ "instance": "sta-f-83",
+ "exams": 139,
+ "students": 611,
+ "pairs": 1381,
+ "relaxed": true,
+ "build_time": 0.7220770829590037,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 0.0,
+ "bound": 0.0,
+ "nodes": -1,
+ "time": 0.257995791034773,
+ "gap": 0.0,
+ "formulation": "compact",
+ "solver": "highs",
+ "periods": 13,
+ "time_limit": 300,
+ "variables": 8712,
+ "constraints": 107857,
+ "timetable": null
+}

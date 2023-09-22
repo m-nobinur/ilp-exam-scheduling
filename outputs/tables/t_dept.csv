@@ -1,0 +1,3 @@
+Method,Cost,Bound,Gap,Status,Time (s)
+"Strengthened model, HiGHS",8.65,1.12,87.1%,time limit,120.0
+Simulated annealing,8.42,,,best found,30.0

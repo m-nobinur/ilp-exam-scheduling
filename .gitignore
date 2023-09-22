@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+
+outputs/logs/
+RESULTS.md
+DECISIONS.md
+src/checks.py
+
+report/*
+!report/MP_Project_Report.pdf

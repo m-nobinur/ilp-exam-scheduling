@@ -1,0 +1,18 @@
+{
+ "run": "e6-feasible-n10-T8",
+ "instance": "hec-s-92-n10",
+ "periods": 8,
+ "status": "Infeasible",
+ "optimal": false,
+ "objective": null,
+ "bound": null,
+ "nodes": 1,
+ "time": 0.002572125056758523,
+ "gap": null,
+ "formulation": "compact",
+ "solver": "highs",
+ "time_limit": 120,
+ "variables": 301,
+ "constraints": 2034,
+ "timetable": null
+}

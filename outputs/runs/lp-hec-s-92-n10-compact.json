@@ -1,0 +1,23 @@
+{
+ "run": "lp-hec-s-92-n10-compact",
+ "instance": "hec-s-92-n10",
+ "exams": 10,
+ "students": 974,
+ "pairs": 44,
+ "relaxed": true,
+ "build_time": 0.01741720805875957,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 0.0,
+ "bound": 0.0,
+ "nodes": -1,
+ "time": 0.00509654195047915,
+ "gap": 0.0,
+ "formulation": "compact",
+ "solver": "highs",
+ "periods": 11,
+ "time_limit": 300,
+ "variables": 330,
+ "constraints": 2914,
+ "timetable": null
+}

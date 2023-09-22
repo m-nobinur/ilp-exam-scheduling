@@ -1,0 +1,13 @@
+Instance,Method,Cost,Bound,Gap,Status
+hec-s-92,Start (feasibility model),18.44,,,feasible
+hec-s-92,Simulated annealing (best of 5),10.32,,,"best found, 60 s"
+hec-s-92,"Compact model, warm start",10.32,0.00,100.0%,"best found, 480 s"
+hec-s-92,"Strengthened model, warm start",10.32,0.00,100.0%,"best found, 480 s"
+hec-s-92,Fix-and-optimise,10.30,,,"best found, 480 s"
+hec-s-92,Best published,10.03,,,best known
+sta-f-83,Start (DSatur),194.40,,,feasible
+sta-f-83,Simulated annealing (best of 5),157.03,,,"best found, 60 s"
+sta-f-83,"Compact model, warm start",157.03,0.00,100.0%,"best found, 480 s"
+sta-f-83,"Strengthened model, warm start",157.03,27.78,82.3%,"best found, 480 s"
+sta-f-83,Fix-and-optimise,157.03,,,"best found, 480 s"
+sta-f-83,Best published,157.03,,,best known

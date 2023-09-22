@@ -1,0 +1,23 @@
+{
+ "run": "e1-compact-lp",
+ "instance": "e1-toy",
+ "exams": 6,
+ "students": 20,
+ "pairs": 11,
+ "relaxed": true,
+ "build_time": 0.0009743750561028719,
+ "status": "Optimal",
+ "optimal": true,
+ "objective": 0.0,
+ "bound": 0.0,
+ "nodes": -1,
+ "time": 0.00036091706715524197,
+ "gap": 0.0,
+ "formulation": "compact",
+ "solver": "highs",
+ "periods": 4,
+ "time_limit": 60,
+ "variables": 57,
+ "constraints": 160,
+ "timetable": null
+}
