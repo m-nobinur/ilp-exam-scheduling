@@ -5,16 +5,22 @@ Chittagong, 2023. It schedules exams so that no student sits two at once and the
 takes are spread as far apart as possible. The problem is solved as a binary integer program on two
 instances of the Toronto benchmark, hec-s-92 and sta-f-83.
 
+**Summary:** the exact model proves small instances optimal but cannot close the gap on the full ones, so
+heuristics find those timetables. They match the best published cost on sta-f-83 and land 1.6% above it on
+hec-s-92.
+
 Report: [`report/MP_Project_Report.pdf`](report/MP_Project_Report.pdf)
+
+*Uploaded on GitHub in Nov 2026.*
 
 ## Results
 
-- Three formulations: compact, pairwise and a strengthened model with clique constraints. Solved with
+- Three formulations: compact, pairwise and a strengthened model with clique constraints, solved with
   HiGHS and CBC.
 - On sub-instances, the strengthened model with HiGHS proves the optimum fastest: 31 s for 10 exams,
   against 53 s for the compact model. At 15 exams both reach the 120 s limit.
 - On the full instances the linear relaxation bound is too weak to prove optimality, so simulated annealing
-  with Kempe-chain moves and fix-and-optimise find the timetables.
+  with Kempe-chain moves and fix-and-optimise find the timetables instead.
 - Best cost on hec-s-92 is 10.19, 1.6% above the best published 10.03. On sta-f-83 it is 157.03, equal to the
   best published value.
 
