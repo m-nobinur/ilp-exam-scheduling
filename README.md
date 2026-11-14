@@ -23,7 +23,7 @@ Report: [`report/MP_Project_Report.pdf`](report/MP_Project_Report.pdf)
 Python 3.11 and the CBC solver (`brew install cbc` on macOS, or your package manager on Linux).
 
 ```
-python3 -m venv .venv
+python3.11 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ./run_all.sh
 ```
